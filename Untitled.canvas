@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bebedd5774097f69","x":-480,"y":-190,"width":100,"height":50,"type":"text","text":"AD"},
+		{"id":"eaab0b6a14b2a377","x":-120,"y":-190,"width":160,"height":50,"type":"text","text":"App Server"},
+		{"id":"c80fe1d780771bba","x":-115,"y":-60,"width":150,"height":60,"type":"text","text":"Database Server\n"}
+	],
+	"edges":[
+		{"id":"71bafe6212f1c7c6","fromNode":"bebedd5774097f69","fromSide":"right","toNode":"eaab0b6a14b2a377","toSide":"left","label":"LDAP 389 / \nLDAPS 636"},
+		{"id":"0ff9c1dcabef7ef0","fromNode":"eaab0b6a14b2a377","fromSide":"bottom","toNode":"c80fe1d780771bba","toSide":"top"}
+	]
+}
