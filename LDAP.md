@@ -2,6 +2,7 @@
 * Used to access and manage directory information.
 * Used in IT systems to lookup, read and write data in a directory service.
 * Acts like a bride between applications (like login screen) and the directory service (like AD).
+* Port: `389`
 * Common Uses
 	* Login Authentication
 		* When a user logs in LDAP checks if username and password are correct.
