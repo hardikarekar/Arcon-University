@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Basic Organization Setup.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -117.85243098832834,
+                  "y": 209.69395900113705,
+                  "zoom": -0.6926397903885357
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Basic Organization Setup"
             }
           }
         ],
@@ -189,7 +189,7 @@
   "active": "62a3778bb959e914",
   "lastOpenFiles": [
     "Arcon.md",
-    "Untitled.canvas",
+    "Basic Organization Setup.canvas",
     "Welcome.md"
   ]
 }
