@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App Server.md",
+                "file": "Database Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App Server"
+              "title": "Database Server"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gateway.md",
+                "file": "Privelege Access Management (PAM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gateway"
+              "title": "Privelege Access Management (PAM)"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "LDAP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,14 +197,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62a3778bb959e914",
+  "active": "404c4b53dd04605e",
   "lastOpenFiles": [
+    "Basic Organization Setup.JPG",
+    "Privelege Access Management (PAM).md",
     "Basic Organization Setup.canvas",
-    "App Server.md",
     "Gateway.md",
+    "Database Server.md",
+    "App Server.md",
     "LDAPS.md",
     "LDAP.md",
-    "Basic Organization Setup.JPG",
     "End User.md",
     "Active Directory.md",
     "Arcon.md",
