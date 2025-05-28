@@ -51,6 +51,7 @@ LDAP Query → "Is there a user called hardik.arekar, and does this password mat
 | Is the password expired                     | LDAP can show the `pwdLastSet` attribute    |
 | Is `hardik` part of the correct group or OU | LDAP can show his group memberships         |
 | Can you search the user in LDAP?            | To ensure `hardik` account still exists     |
+
 Example LDAP Query (Using command line)
 ```bash
 ldapsearch -x -b "dc=company,dc=com" "(sAMAccountName=hardik.arekar)"
