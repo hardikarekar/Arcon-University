@@ -25,16 +25,11 @@
             "id": "62a3778bb959e914",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Basic Organization Setup.canvas",
-                "viewState": {
-                  "x": -117.85243098832834,
-                  "y": 209.69395900113705,
-                  "zoom": -0.6926397903885357
-                }
+                "file": "Basic Organization Setup.JPG"
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-image",
               "title": "Basic Organization Setup"
             }
           }
@@ -188,8 +183,10 @@
   },
   "active": "62a3778bb959e914",
   "lastOpenFiles": [
-    "Arcon.md",
     "Basic Organization Setup.canvas",
+    "~asic Organization Setup.tmp",
+    "Basic Organization Setup.JPG",
+    "Arcon.md",
     "Welcome.md"
   ]
 }
