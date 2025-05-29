@@ -1,7 +1,6 @@
 #organizationsetup 
 * Database server stores, manages and provides access to structured data.
 * Applications connect to it to read, write or update information.
-]
 * Where it fits in a system (3 Tier Architecture)
 ```css
 [Client (Browser)] → [Application Server] → [Database Server]
