@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory.md",
+                "file": "Gateway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active Directory"
+              "title": "Gateway"
             }
           },
           {
@@ -31,7 +31,7 @@
                 "viewState": {
                   "x": -181,
                   "y": 100,
-                  "zoom": -0.3614358921324171
+                  "zoom": -0.24623255138347125
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -52,7 +52,8 @@
               "title": "LDAP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,17 +200,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62a3778bb959e914",
+  "active": "404c4b53dd04605e",
   "lastOpenFiles": [
-    "App Server.md",
     "Basic Organization Setup.JPG",
-    "LDAP.md",
-    "Privelege Access Management (PAM).md",
-    "Database Server.md",
-    "Basic Organization Setup.canvas",
     "Active Directory.md",
-    "Gateway.md",
+    "Basic Organization Setup.canvas",
     "LDAPS.md",
+    "Database Server.md",
+    "LDAP.md",
+    "MSSQL.md",
+    "Gateway.md",
+    "App Server.md",
+    "Privelege Access Management (PAM).md",
     "End User.md",
     "Arcon.md",
     "~asic Organization Setup.tmp",

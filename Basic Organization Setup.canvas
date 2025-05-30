@@ -12,13 +12,13 @@
 		{"id":"0c0a3c94944e96c7","type":"text","text":"End User","x":-732,"y":-5,"width":125,"height":60}
 	],
 	"edges":[
-		{"id":"71bafe6212f1c7c6","fromNode":"bebedd5774097f69","fromSide":"right","toNode":"eaab0b6a14b2a377","toSide":"left","label":"LDAP 389 / \nLDAPS 636"},
 		{"id":"0ff9c1dcabef7ef0","fromNode":"eaab0b6a14b2a377","fromSide":"bottom","toNode":"c80fe1d780771bba","toSide":"top"},
 		{"id":"2cc19ff4ff0d9910","fromNode":"70d19896221098c5","fromSide":"left","toNode":"eaab0b6a14b2a377","toSide":"right"},
-		{"id":"7a3d2d04b9fc999c","fromNode":"c80fe1d780771bba","fromSide":"bottom","toNode":"09cc406157f6d28c","toSide":"top"},
 		{"id":"8f65ff9f9ca6d13b","fromNode":"09cc406157f6d28c","fromSide":"right","toNode":"d9c41cdfc56bf7ee","toSide":"left","label":"3389"},
 		{"id":"f80ec47ad4aef2b5","fromNode":"09cc406157f6d28c","fromSide":"right","toNode":"b7f29f74b1886f60","toSide":"left","label":"22"},
 		{"id":"ac868c5d42864842","fromNode":"09cc406157f6d28c","fromSide":"right","toNode":"8d088cebdfa4968e","toSide":"left","label":"1433/\n1450/\n3306"},
-		{"id":"73bb87162dceb0ee","fromNode":"0c0a3c94944e96c7","fromSide":"right","toNode":"eaab0b6a14b2a377","toSide":"bottom","label":"Http 80 /\nHttps 443"}
+		{"id":"73bb87162dceb0ee","fromNode":"0c0a3c94944e96c7","fromSide":"right","toNode":"eaab0b6a14b2a377","toSide":"bottom","label":"Http 80 /\nHttps 443"},
+		{"id":"cc9e2f329d3779f0","fromNode":"0c0a3c94944e96c7","fromSide":"bottom","toNode":"09cc406157f6d28c","toSide":"left","label":"22"},
+		{"id":"cae7e18c465d6711","fromNode":"eaab0b6a14b2a377","fromSide":"left","toNode":"bebedd5774097f69","toSide":"right","label":"LDAP 389 /\nLDAPS 636"}
 	]
 }

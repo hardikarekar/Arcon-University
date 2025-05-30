@@ -97,7 +97,7 @@
 	* Create User inside OU
 		* Expand the OU eg `IT` > Right click > New > User
 		* Example
-			* First Name: `gandhar`
+			* First Name: `pratik`
 			* User Logon Name: `pratik.tare`
 			* Password
 		* Create at least 2 users per OU
