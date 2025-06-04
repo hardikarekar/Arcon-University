@@ -25,17 +25,14 @@
             "id": "404c4b53dd04605e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Basic Organization Setup.canvas",
-                "viewState": {
-                  "x": -181,
-                  "y": 100,
-                  "zoom": -0.24623255138347125
-                }
+                "file": "Training Day 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Basic Organization Setup"
+              "icon": "lucide-file",
+              "title": "Training Day 1"
             }
           },
           {
@@ -202,16 +199,19 @@
   },
   "active": "404c4b53dd04605e",
   "lastOpenFiles": [
-    "Basic Organization Setup.JPG",
+    "Privelege Access Management (PAM).md",
+    "Training Day 1.md",
     "Active Directory.md",
+    "linux.md",
+    "IIS.md",
+    "Gateway.md",
     "Basic Organization Setup.canvas",
+    "Basic Organization Setup.JPG",
     "LDAPS.md",
     "Database Server.md",
     "LDAP.md",
     "MSSQL.md",
-    "Gateway.md",
     "App Server.md",
-    "Privelege Access Management (PAM).md",
     "End User.md",
     "Arcon.md",
     "~asic Organization Setup.tmp",

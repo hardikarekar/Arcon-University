@@ -1,0 +1,2 @@
+* rpm
+* software installation
