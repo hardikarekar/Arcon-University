@@ -56,3 +56,35 @@
 	* Arcon Domain
 		* `hardik.arekar`
 
+* PAM - U16 Hotfix-2
+	* Builds on zero trust privileged access security framework
+	* Major Products
+		* PAM (Privileged Access Management)
+		* UBA -> EPM (Endpoint Privileged Access Management)
+		* SCM (Security Compliance Management)
+
+* PAM 
+	* Single Sign On
+	* Group On Boarding
+		* Mapping
+	* Password Vault
+		* Manage authentication (username, password)
+		* Encryption
+			* data -> AES 256 -> Arcon Proprietary Encryption (SSL) -> db
+			* data <- AES 256 <- Arcon Proprietary Encryption (SSL) <- db
+			* done with the help of APIs (400+ well documented APIs)
+		* Database
+			* MS SQL 2014
+				* **OLTP Daily**
+				* ARCOSDB (Main Database) -> `.mdf` & `.ldf`
+				* ARCOSRDPDB (Video Log Information) -> `.mdf` & `.ldf`
+					* capture image -> binary format
+					* logmanagerservice -> binary to image `.jpeg` / `.jpeg.e`
+					* `.jpeg.` in sequence -> video
+					* logarchivalservice -> convert `.jpeg` -> `.avi` / `.mp4`
+				* **OLAP DW**
+				* Dwh_Raw (Data Warehousing)
+				* ReportingDB (Data Warehousing)
+	* Smart Audit Trails
+	* Virtual Grouping
+

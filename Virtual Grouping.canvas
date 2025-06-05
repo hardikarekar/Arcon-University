@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"70731a52c7711027","type":"text","text":"DEMOLOB","x":-740,"y":-190,"width":250,"height":60},
+		{"id":"04f1ca41bd9eae46","type":"text","text":"ARCONLOB","x":-440,"y":-190,"width":250,"height":60},
+		{"id":"072387530f29115e","type":"text","text":"ANBLOB","x":-145,"y":-190,"width":250,"height":60},
+		{"id":"f55417eaafaa553d","type":"text","text":"MUMBLOB","x":140,"y":-190,"width":250,"height":60},
+		{"id":"1c4b542b76ea209f","type":"text","text":"PUNELOB","x":420,"y":-190,"width":250,"height":60},
+		{"id":"e6f1812bbc3ea776","type":"text","text":"PAM U16HF2 - APP","x":-740,"y":-300,"width":250,"height":60},
+		{"id":"bd9b87fe34cb47ca","type":"text","text":"multiple domain","x":-440,"y":-300,"width":250,"height":60},
+		{"id":"b47426c86218f2cf","type":"text","text":"anbdc.com","x":-110,"y":-560,"width":250,"height":60},
+		{"id":"65a86da2a825b70f","type":"text","text":"arcon.com","x":-145,"y":-300,"width":250,"height":60},
+		{"id":"fd116377e2627829","type":"text","text":"ARCONLOB\n\n","x":-600,"y":9,"width":865,"height":411},
+		{"id":"1f322b080543f9c2","type":"text","text":"SERVERGROUP","x":-60,"y":110,"width":250,"height":60},
+		{"id":"6762545b9271b0fa","type":"text","text":"SERVERS","x":-60,"y":300,"width":250,"height":60},
+		{"id":"c7f950488df8d4cf","type":"text","text":"USERGROUP\n\n1. DBUSER\n2. WINDOWSUSER\n","x":-540,"y":85,"width":250,"height":110},
+		{"id":"14a57425e3e219ef","type":"text","text":"USERS\n1. Vivek (SA) ","x":-540,"y":240,"width":250,"height":120}
+	],
+	"edges":[
+		{"id":"58b4a561f322a1b8","fromNode":"e6f1812bbc3ea776","fromSide":"right","toNode":"bd9b87fe34cb47ca","toSide":"left"},
+		{"id":"553ee93127268350","fromNode":"bd9b87fe34cb47ca","fromSide":"right","toNode":"65a86da2a825b70f","toSide":"left"}
+	]
+}
